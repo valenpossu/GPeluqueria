@@ -1,0 +1,11 @@
+D:\Proyecto\GestionPeluqueria\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyecto\GestionPeluqueria\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyecto\GestionPeluqueria\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyecto\GestionPeluqueria\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyecto\GestionPeluqueria\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyecto\GestionPeluqueria\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyecto\GestionPeluqueria\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+D:\Proyecto\GestionPeluqueria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyecto\GestionPeluqueria\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Proyecto\GestionPeluqueria\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyecto\GestionPeluqueria\CapaNegocio\obj\Debug\CapaNegocio.pdb
